@@ -27,6 +27,10 @@ Runs directly in your browser using **Google Colab**, no setup required!
 
 > 💡 API keys are free with generous usage limits from Google.
 
+
+## DEMO
+
+![Demo](assets/chatbot-preview.png)
 ---
 
 ## 🚀 How to Use This Notebook

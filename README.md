@@ -4,7 +4,7 @@
 A simple and interactive AI chatbot built using **Google's Gemini 1.5 Flash model** with the `google-generativeai` library.  
 Runs directly in your browser using **Google Colab**, no setup required!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Unnati147/gemini-chatbot/blob/main/gemini_chatbot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Unnati147/gemini-chatbot/blob/main/Gemini_project.ipynb)
 
 
 ---
